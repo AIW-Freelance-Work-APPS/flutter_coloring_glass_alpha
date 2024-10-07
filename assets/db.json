@@ -7,6 +7,12 @@
   "about": "https://pub.dev/packages/stacked_animated_list",
   "privacy": "path_to",
   "terms": "path_to",
+  "ads": {
+    "admob": "true",
+    "meta": "false",
+    "unity": "false",
+    "applovin": "false"
+  },
   "intro": [
     {
       "title": "Title 1",
