@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 26 26" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<image height="100" id="Image" width="100" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAACXBIWXMAAAsTAAALEwEAmpwYAAADQ0lEQVR4nO3dP2sUQQCG8Y0gJGDULihioaIYaxU0omcTiFjqh7AQ8Q9RVMTCRgttIgliK1HQ0sIPYGdjo000URA7UUlxGn1kyKjH3c7eXrKzM5d5f3AQNuFmdh72crdsNlkmIiIiItIBGAIO28dQ509IbYCDwAL/zZttShDuyFigk9mmIyVAkDHcxmqfUOpY/p3hcij0/FJ9yZrPiWG26SUrUJQDbVHeA/uDTEaWAYMtb3sH7WYRERERkbUC2AhMAZ/sw3w9HHpeyQKe53xSfwEMhJ5bcoB9BeeyRkPPLznAeEGQ8dDzSw4wAjRzYphtI6HnlyTgAvC7JYb5+nzoeSUNOAbcs4+joecjIiIiIuIBcBJ4CDwAJrTIAQE3cj6pX1OUMDG2Aj9zgvwAtihK/UEmCk4unlCQ+oOcKghyWkEUJG3oCIkLChIXFCQuKEhcUJC4oCBxQUHigoLEBQWJCwoSFxQkLihIXFCQuKAg3hd4GJgEHgG3gG2+ggC77KWnz4CrwKbKd6ifARuA122L+sVct1t1EHst8Le2n38DbPa2g/0GuORY2EVXlJUEsTHMc+a57n1H+wXwuGBxF4HGaoN0iWE8rW2HYwfcKVio3Ci9BCkRw7hb+47HCtgBfO0lStkgJWOYsXdm/QpY5+E5GyUW7l+UMkFKxsh9Saxgf9ZX/ZztAwwAZ+39qczFaC+rvjcVPUTpFiRUDHvrwVf2+T8DF738mTZwxnGobw8UZarg+/cDxdjtGPdcleP8HeytY8duehirUWJBV8PXy9Rtx3hzmYfBlhyDzVY+WOY1ipcYds6zjjF/+RjM5Unlg1nAEeB7xTGOZwE+T62JIBVH8RojmSAVRfEeI6kgq4xSS4zkgqwwSm0xkgzSY5RaYyQbpGSU2mMkHaRLlCAxstSDOKIEi2Hnk3aQtihBY9i5KEjLaRYvp0N6oSCRUZDIKEhkFCQyChIZBYmMgkRGQRIPkndbb+Oj+bSuB2YNPjjWqOkjyLuC0ydSzMtVJzNdBhW3aR9B9jhuqSfFlrz9PxPgSpfBpdNlLzFaru81UXSkdGfWaNJbjLYwo/Z3ylzBu68UNe2aTAN7a4khIiIiIiIiIpk/fwCGJVKj9d7jOQAAAABJRU5ErkJggg=="/>
+</defs>
+<g id="Untitled" vectornator:layerName="Untitled">
+<g opacity="1" vectornator:layerName="rect">
+<clipPath id="ClipPath">
+<path d="M0 0L26 0L26 0L26 26L26 26L0 26L0 26L0 0L0 0Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath)">
+<use opacity="1" transform="matrix(0.26 0 0 0.26 0 0)" vectornator:layerName="image" xlink:href="#Image"/>
+</g>
+</g>
+</g>
+</svg>

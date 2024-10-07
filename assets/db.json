@@ -1,0 +1,83 @@
+{
+  "app_name": "Luca Friends",
+  "app_icon": "assets/appicon.png",
+  "cover": "assets/splash.png",
+  "main_color": "#FFD600",
+  "contact": "contact@email.com",
+  "about": "https://pub.dev/packages/stacked_animated_list",
+  "privacy": "path_to",
+  "terms": "path_to",
+  "intro": [
+    {
+      "title": "Title 1",
+      "description": "Description 1",
+      "icon": "assets/onboarding_1.png"
+    },
+    {
+      "title": "Title 2",
+      "description": "Description 2",
+      "icon": "assets/onboarding_2.png"
+    },
+    {
+      "title": "Title 3",
+      "description": "Description 3",
+      "icon": "assets/onboarding_3.png"
+    }
+  ],
+  "content": [
+    {
+      "category": "Luca",
+      "icon": "assets/caty_1.jpg",
+      "images": [
+        "assets/wallpaper_1.jpg",
+        "assets/wallpaper_2.jpg",
+        "assets/wallpaper_3.jpg"
+      ]
+    },
+    {
+      "category": "Giulia",
+      "icon": "assets/caty_2.jpg",
+      "images": [
+        "assets/wallpaper_4.jpg",
+        "assets/wallpaper_5.jpg",
+        "assets/wallpaper_6.jpg"
+      ]
+    },
+    {
+      "category": "Alberto",
+      "icon": "assets/caty_3.jpg",
+      "images": [
+        "assets/wallpaper_7.jpg",
+        "assets/wallpaper_8.jpg",
+        "assets/wallpaper_1.jpg"
+      ]
+    },
+    {
+      "category": "Ercole",
+      "icon": "assets/caty_4.jpg",
+      "images": [
+        "assets/wallpaper_7.jpg",
+        "assets/wallpaper_8.jpg",
+        "assets/wallpaper_1.jpg"
+      ]
+    },
+    {
+      "category": "Nonna",
+      "icon": "assets/caty_5.jpg",
+      "images": [
+        "assets/wallpaper_7.jpg",
+        "assets/wallpaper_8.jpg",
+        "assets/wallpaper_1.jpg"
+      ]
+    },
+    {
+      "category": "Machiavelli",
+      "icon": "assets/caty_6.jpg",
+      "images": [
+        "assets/wallpaper_7.jpg",
+        "assets/wallpaper_8.jpg",
+        "assets/wallpaper_1.jpg"
+      ]
+    }
+  ]
+}

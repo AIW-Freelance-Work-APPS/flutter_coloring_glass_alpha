@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 30 30" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<image height="100" id="Image" width="100" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAACXBIWXMAAAsTAAALEwEAmpwYAAABxUlEQVR4nO3cQU7CQABG4WHhEdB4LHSLl9ELeRBWisHbPGPsRE2kVKnlH/q+NSQz8zJQSjOlSJIkSZIkSZIkSZIkSVI/YAHcAPfAHXDRypoBF92Y77s5LMoZxHjkuw1wVcIBl91Yv3psOgpwy89ekqPwEWO7Z+w3pVXAw55JxUahP8a7h9Kq7vO3zzYpCodjvFuXVnVfipsWojAsxqali5K+iT4fmOgrcB0+xt0pxzibKMwtRnIU5hojMQpzj5EUBWPkRMEYOQuDMXIWCGPkLBTGyFkwjPE33cI9jRnFGEcClmNFMUZQFPyYyomCMXKiYIycKBgj6o+j7cDXXE407PPGsJ1ycBedeh5nhb9HMUZQlJ07IyfKzhgTYNjVlEHCYlTukqAYlVGCYlRGGTnGln7+MJwCv7gdMuatex0Zo3y+xyj/gSNuFBolKEZllJEw4i10owTFqIyS+RjQ0quvkBiVUTIfJV26U0JiVEbZ45QPJOBOyYlRGSUoRjX7KEkxytyjJMaYbZTkGLOL4tEaYc708Jm70iqPZwrTHYvXzFlZA3fKqrTKI/7yD8FcN3wI5qrp8xYlSZIkSZIkSZIkSZIklYm8AXx1u3gaAnCmAAAAAElFTkSuQmCC"/>
+</defs>
+<g id="Untitled" vectornator:layerName="Untitled">
+<g opacity="1" vectornator:layerName="rect">
+<clipPath id="ClipPath">
+<path d="M0 0L30 0L30 0L30 30L30 30L0 30L0 30L0 0L0 0Z"/>
+</clipPath>
+<g clip-path="url(#ClipPath)">
+<use opacity="1" transform="matrix(0.3 0 0 0.3 0 0)" vectornator:layerName="image" xlink:href="#Image"/>
+</g>
+</g>
+</g>
+</svg>
